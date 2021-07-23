@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/ebill/e_bill/BuildConfig.java
+ com.ebill.e_bill.BuildConfig
